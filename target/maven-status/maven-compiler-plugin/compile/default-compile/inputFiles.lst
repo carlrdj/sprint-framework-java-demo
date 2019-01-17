@@ -1,7 +1,11 @@
 C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\service\read\UserRService.java
 C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\service\read\impl\UserRServiceImpl.java
-C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\controller\AsistenciaController.java
 C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\domain\User.java
+C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\service\write\UserWService.java
+C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\repository\write\impl\UserWRepositoryImpl.java
+C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\controller\AdministrationController.java
+C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\repository\write\UserWRepository.java
 C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\repository\read\impl\UserRRepositoryImpl.java
 C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\App.java
 C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\repository\read\UserRRepository.java
+C:\Users\SEVEN\Desktop\GIT\com.rofai.demo\src\main\java\com\rofai\demo\service\write\impl\UserWServiceImpl.java

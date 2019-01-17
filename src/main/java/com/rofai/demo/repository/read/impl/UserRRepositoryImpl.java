@@ -48,13 +48,14 @@ public class UserRRepositoryImpl implements UserRRepository {
 	}    
 
     /**
-     * Mapping
+     * CRUEDA - 17-01-2019 - Mapping user table
+     * Description: Get data user table
      */
     private User mapDataPersona(ResultSet rs, int i) throws SQLException {
         User user = new User();
         user.setUi_iduser(UUID.fromString(rs.getString("ui_iduser")));
-        user.setVc_name(rs.getString("ui_iduser"));
-        user.setVc_surname(rs.getString("ui_iduser"));
+        user.setVc_name(rs.getString("vc_name"));
+        user.setVc_surname(rs.getString("vc_surname"));
         return user;
     }
 }

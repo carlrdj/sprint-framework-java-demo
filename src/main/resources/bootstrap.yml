@@ -1,8 +1,8 @@
 application:
- name: xd
+ name: demo
     
 server:
- context-path: /xd/v1
+ context-path: /rofai/v1
  port: 8080
  compression:
   enabled: true

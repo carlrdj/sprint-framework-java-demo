@@ -1,7 +1,11 @@
 com\rofai\demo\service\read\impl\UserRServiceImpl.class
 com\rofai\demo\App.class
-com\rofai\demo\controller\AsistenciaController.class
 com\rofai\demo\repository\read\impl\UserRRepositoryImpl.class
 com\rofai\demo\repository\read\UserRRepository.class
+com\rofai\demo\repository\write\impl\UserWRepositoryImpl.class
 com\rofai\demo\domain\User.class
 com\rofai\demo\service\read\UserRService.class
+com\rofai\demo\service\write\impl\UserWServiceImpl.class
+com\rofai\demo\service\write\UserWService.class
+com\rofai\demo\repository\write\UserWRepository.class
+com\rofai\demo\controller\AdministrationController.class
