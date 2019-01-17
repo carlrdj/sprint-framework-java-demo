@@ -1,0 +1,7 @@
+com\rofai\demo\service\read\impl\UserRServiceImpl.class
+com\rofai\demo\App.class
+com\rofai\demo\controller\AsistenciaController.class
+com\rofai\demo\repository\read\impl\UserRRepositoryImpl.class
+com\rofai\demo\repository\read\UserRRepository.class
+com\rofai\demo\domain\User.class
+com\rofai\demo\service\read\UserRService.class
